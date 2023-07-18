@@ -1,0 +1,4 @@
+- name: Upload coverage reports to Codecov
+  uses: codecov/codecov-action@v3
+  env:
+    CODECOV_TOKEN: 085b923a-3ca3-4e1f-9649-0366df11f16d
